@@ -4,6 +4,15 @@
 
 The `Carousel` component is a React functional component designed to display a slider of categories. It utilizes the `Splide` library for creating a responsive and customizable slider. The component features navigation buttons that become active when there are more slides to navigate through.
 
+## Preview
+
+### Next Button Active
+![Next Button Active](https://github.com/AroshaRavishan/Next-and-Prev-Carousel-Next-React/blob/main/Next%20button%20Active.png)
+
+### Prev Button Active
+![Prev Button Active](https://github.com/AroshaRavishan/Next-and-Prev-Carousel-Next-React/blob/main/Prev%20Button%20Active.png)
+
+
 ## Features
 
 - **Responsive Design**: The carousel adjusts the number of visible slides based on the screen width, ensuring a smooth user experience across different devices.
